@@ -34,8 +34,8 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($blue-color, 0.05);
-$code-bg-color-dark: $blue-color !default;
+$code-bg-color-light: $white-color !default;
+$code-bg-color-dark: $black-color !default;
 
 // Font awesome location
 $fa-font-path: "../webfonts";
