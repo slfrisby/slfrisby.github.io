@@ -28,7 +28,7 @@ I am interested in how the brain represents **semantic information** - the store
 
 During my PhD at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/), I investigated the best way to study semantic representations in the brain. How should we **think** about them? How can we **measure** them? What sorts of machine learning techniques can **reveal** them in neural recordings?
 
-In my postdoctoral work I plan to investigate the roles that the sensory systems play in representing semantic information. 
+In my postdoctoral work I plan to investigate the roles that the **sensory systems** play in representing semantic information. 
 
 To answer these questions, I collaborate with scientists all over the world, including [Matt Lambon Ralph](https://www.mrc-cbu.cam.ac.uk/people/matt.lambon-ralph/) and [Ajay Halai](https://www.halaiaphasialab.com/) in Cambridge, [Tim Rogers](http://concepts.psych.wisc.edu/) and [Chris Cox](https://faculty.lsu.edu/chriscox/people.php) in the USA, and [Riki Matsumoto](https://www.med.kyoto-u.ac.jp/en/news/5777) and [Akihiro Shimotake](https://www.researchgate.net/profile/Akihiro-Shimotake) in Japan. 
 
