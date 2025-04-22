@@ -21,7 +21,7 @@ announcements:
 # latest_posts:
   # enabled: false
   # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  # limit: 3 # leave blank to include all the blog posts
+  # limit: 3 # leave blank to include all the blog posts --
 ---
 
 I am interested in how the brain represents **semantic information** - the store of general knowledge that enables us to comprehend and produce language, identify and use objects, and understand and participate in events that involve us. 
@@ -34,5 +34,5 @@ To answer these questions, I collaborate with scientists all over the world, inc
 
 I am also interested in **research culture** - the behaviours, values, expectations, attitudes, and norms of research communities. I founded the Working Group on Research Culture to promote and improve a positive culture at the MRC CBU.
 
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
