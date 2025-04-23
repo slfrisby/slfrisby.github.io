@@ -32,7 +32,7 @@ In my postdoctoral work I plan to investigate the roles that the **sensory syste
 
 To answer these questions, I collaborate with scientists all over the world, including [Matt Lambon Ralph](https://www.mrc-cbu.cam.ac.uk/people/matt.lambon-ralph/) and [Ajay Halai](https://www.halaiaphasialab.com/) in Cambridge, [Tim Rogers](http://concepts.psych.wisc.edu/) and [Chris Cox](https://faculty.lsu.edu/chriscox/people.php) in the USA, and [Riki Matsumoto](https://www.med.kyoto-u.ac.jp/en/news/5777) and [Akihiro Shimotake](https://www.researchgate.net/profile/Akihiro-Shimotake) in Japan. 
 
-I am also interested in **research culture** - the behaviours, values, expectations, attitudes, and norms of research communities. I founded the Working Group on Research Culture to promote and improve a positive culture at the MRC CBU.
+I am also interested in **research culture** - the behaviours, values, expectations, attitudes, and norms of research communities. I founded the Working Group on Research Culture to promote a positive culture at the MRC CBU.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
