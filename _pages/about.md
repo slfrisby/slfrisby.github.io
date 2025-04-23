@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.mrc-cbu.cam.ac.uk/'>MRC Cognition and Brain Sciences Unit</a>,<a href='https://www.cam.ac.uk/'>University of Cambridge</a>.
+subtitle: <a href='https://www.mrc-cbu.cam.ac.uk/'>MRC Cognition and Brain Sciences Unit</a>, <a href='https://www.cam.ac.uk/'>University of Cambridge</a>.
 
 profile:
   align: right
