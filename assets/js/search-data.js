@@ -50,7 +50,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "projects-project-1",
+            },},{id: "news-i-had-a-wonderful-time-visiting-bangor-university-to-give-a-talk-to-the-bangor-imaging-group-thank-you-richard-binney-and-lab-for-hosting-me",
+          title: 'I had a wonderful time visiting Bangor University to give a talk to...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
