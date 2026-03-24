@@ -30,7 +30,7 @@ During my PhD at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu
 
 In my postdoctoral work I plan to investigate the roles that the **sensory systems** play in representing semantic information. 
 
-To answer these questions, I collaborate with scientists all over the world, including [Matt Lambon Ralph](https://www.mrc-cbu.cam.ac.uk/people/matt.lambon-ralph/) and [Ajay Halai](https://www.halaiaphasialab.com/) in Cambridge, [Tim Rogers](http://concepts.psych.wisc.edu/) and [Chris Cox](https://faculty.lsu.edu/chriscox/people.php) in the USA, and [Riki Matsumoto](https://www.med.kyoto-u.ac.jp/en/news/5777) and [Akihiro Shimotake](https://www.researchgate.net/profile/Akihiro-Shimotake) in Japan. 
+To answer these questions, I collaborate with scientists all over the world, including [Matt Lambon Ralph](https://www.mrc-cbu.cam.ac.uk/people/matt.lambon-ralph/) and [Ajay Halai](https://www.halaiaphasialab.com/) in Cambridge, [Tim Rogers](http://concepts.psych.wisc.edu/) in London, [Alex Clarke](https://sites.google.com/site/alexclarkebrains/projects) in Warwick, [Chris Cox](https://faculty.lsu.edu/chriscox/people.php) and [Rob Nowak](https://nowak.ece.wisc.edu/) in the USA, [Tim Dick](https://mbic-auditorylab.nl/home/people/tim-dick/) in the Netherlands, and [Riki Matsumoto](https://www.med.kyoto-u.ac.jp/en/news/5777) and [Akihiro Shimotake](https://www.researchgate.net/profile/Akihiro-Shimotake) in Japan. 
 
 I am also interested in **research culture** - the behaviours, values, expectations, attitudes, and norms of research communities. I founded the Working Group on Research Culture to promote a positive culture at the MRC CBU.
 
